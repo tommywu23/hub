@@ -1,4 +1,4 @@
-##Hub Service
+##Hub Service [![Build Status](https://travis-ci.org/tommywu23/hub.svg)](https://travis-ci.org/tommywu23/hub.svg)
 
 ##Roadmap for v1.0
 - [ ] App Management(CURD)
